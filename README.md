@@ -1,3 +1,3 @@
 # Multiple-Linear-Regression-Bike-Sharing
 
-This assignment is a programming assignment wherein you have to build a multiple linear regression model for the prediction of demand for shared bikes. You will need to submit a Jupyter notebook for the same. 
+I successfully modeled the demand for shared bikes using the available independent variables. This model provides valuable insights into how demand fluctuates based on various factors, enabling management to make informed decisions and adjust business strategies accordingly. The model also offers a solid foundation for understanding demand patterns in new markets, helping the company better meet customer expectations and optimize its service offerings.
